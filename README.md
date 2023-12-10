@@ -1,2 +1,2 @@
 # StreamCiphers
-Программы, которые преподаватель просил написать в процессе чтения курса.
+Programs that the teacher asked to write during the course reading.
